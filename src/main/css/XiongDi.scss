@@ -1,0 +1,114 @@
+.thing{
+    position: relative;
+    text-align: center;
+    background-color: #F4F9FF;
+    .thingImg1{
+        height:1.2rem;
+    }
+    .thingImg{
+        width: 6.72rem;
+
+    }
+    .thing2Div{
+        position: absolute;
+        top:19.5rem;
+        img{
+            width:3rem;
+            margin:0.35rem;
+        }
+    }
+    .thingImg2{
+        height:2.38rem;
+    }
+    .thingImg{
+        margin-bottom: 0.26rem;
+    }
+    // 文档样式
+    p{
+        position: absolute;
+        font-size:0.44rem; 
+        letter-spacing:0.05rem;
+    }
+    .thing1{
+        top:1rem;
+        left:1.9rem;
+    }
+    .thing2{
+        top:1.65rem;
+        left:2.55rem;
+    }
+    .p1{
+        position: absolute;
+        font-size:0.27rem; 
+        left:0.5rem;
+        letter-spacing:0.03rem;
+        color:white;
+    }
+    .thingP1{
+        top:3.7rem;
+    }
+    .thingP2{
+        top:6.68rem;
+    }
+    .thingP3{
+        top:11.11rem;
+    }
+    .thingP4{
+        top:16.53rem;
+    }
+    .p2{
+        position: absolute;
+        font-size:0.25rem; 
+        width:5.7rem;
+        text-align: justify;
+        left:0.7rem;
+        line-height: 178%;
+        letter-spacing:0rem;
+    }
+    .pp1{
+        top:4.6rem;
+    }
+    .pp2{
+        position: absolute;
+        text-align: justify;
+        top:7rem;
+    }
+    .p21{
+        top:0.75rem;
+    }
+    .p22{
+        top:1.6rem;
+    }
+    .p23{
+        top:2.05rem;
+    }
+    .p24{
+        top:2.9rem;
+    }
+    .pp3{
+        position: absolute;
+        text-align: justify;
+        top:12.3rem;
+    }
+    .pp3P2{
+        top:0.9rem;
+    }
+    .pp3P3{
+        top:1.77rem;
+    }
+    .pp3P4{
+        top:2.65rem;
+    }
+    .pp4{
+        position: absolute;
+        text-align: justify;
+        top:17.35rem;
+    }
+    .p44P2{
+        top:0.44rem;
+    }
+    .p44P3{
+        top:0.85rem;
+    }
+
+}

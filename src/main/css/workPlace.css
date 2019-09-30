@@ -1,0 +1,117 @@
+.work {
+  color: black;
+  text-align: center;
+}
+
+.work .workOne img {
+  width: 6.71rem;
+}
+
+.work .workOne .work1 {
+  position: absolute;
+  top: 21.3rem;
+  left: 1.94rem;
+  font-size: 0.44rem;
+}
+
+.work .workOne .work3 {
+  position: absolute;
+  top: 22.56rem;
+  left: 2.24rem;
+  font-size: 0.32rem;
+}
+
+.work .workOne .work5 {
+  position: absolute;
+  top: 23.4rem;
+  left: 1.75rem;
+  font-size: 0.22rem;
+}
+
+.work .workOne .work6 {
+  position: absolute;
+  top: 23.8rem;
+  left: 0.82rem;
+  font-size: 0.22rem;
+}
+
+.work .workOne .work8, .work .workOne .work9, .work .workOne .work10 {
+  position: absolute;
+  display: block;
+  width: 1.5rem;
+  font-size: 0.36rem;
+  color: white;
+  text-align: left;
+}
+
+.work .workOne .work8 {
+  top: 24.95rem;
+  left: 0.8rem;
+}
+
+.work .workOne .work9 {
+  top: 27.2rem;
+  left: 5.4rem;
+}
+
+.work .workOne .work10 {
+  width: 1.3rem;
+  top: 30rem;
+  left: 0.8rem;
+}
+
+.work .workTwo {
+  position: relative;
+}
+
+.work .workTwo .left {
+  position: relative;
+  width: 2.92rem;
+  height: 3.2rem;
+  display: inline-block;
+  margin: 0.1rem 0.25rem;
+}
+
+.work .workTwo .left img {
+  width: 100%;
+  height: 100%;
+}
+
+.work .workTwo .left p {
+  text-align: justify;
+  display: block;
+  width: 2.2rem;
+  color: white;
+  position: absolute;
+  top: 1.2rem;
+  left: 0.45rem;
+  font-size: 0.27rem;
+}
+
+.work .workTwo .work1 {
+  position: absolute;
+  top: 0.95rem;
+  left: 2.3rem;
+  font-size: 0.32rem;
+}
+
+.work .workTwo .work5 {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  font-size: 0.22rem;
+}
+
+.work .workTwo .work6 {
+  position: absolute;
+  top: 2.4rem;
+  left: 0.8rem;
+  font-size: 0.22rem;
+}
+
+.work .workTwo .work7 {
+  position: absolute;
+  top: 2.8rem;
+  left: 2.8rem;
+  font-size: 0.22rem;
+}

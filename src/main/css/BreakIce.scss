@@ -1,0 +1,201 @@
+.ice{
+    position: relative;
+    .iceOne{
+        img:first-child{
+            height:2.345rem;
+        }
+        img:nth-child(4){
+            height:5.03rem;
+        }
+        >p{
+            width:7.5rem;
+            text-align: center;
+        }
+        .ice1,.ice2{
+            position: absolute;
+            top:1.72rem;
+            font-size:0.44rem;
+        }
+        .ice2{
+            top:2.4rem;
+        }
+        .ice3{
+            position: absolute;
+            top:3.63rem;
+            font-size:0.22rem;
+        }
+        .ice4{
+            position: absolute;
+            top:4rem;
+            font-size:0.22rem;
+        }
+        .ice5{
+            color:white;
+            font-weight: bold;
+            position: absolute;
+            top:5.22rem;
+            font-size:0.35rem;
+        }
+        .iceDiv{
+            height:1.4rem;
+            width:2.8rem;
+            position: absolute;          
+            h3{
+                font-size:0.34rem;
+                color:#1F0048;
+                font-weight:bold;
+            };
+            p{
+                font-size:0.27rem;
+                text-align: justify;
+                
+            }
+        }
+        .iceDiv1{
+            top:6.4rem;
+            left:1.6rem;
+        }
+        .iceDiv2{
+            top:8.35rem;
+            left:3rem;
+        }
+        .iceDiv3{
+            top:10.2rem;
+            left:1.6rem;
+            width:3.4rem;
+        }
+    }
+    .iceTwo{
+        position: relative;
+        .ice7{
+            color:white;
+            font-weight: bold;
+            position: absolute;
+            top:1rem;
+            width:7.5rem;
+            text-align: center;
+            font-size:0.35rem;
+        }
+        .iceDiv{
+            height:1.4rem;
+            width:4.51rem;
+            position: absolute;
+            h3{
+                font-size:0.34rem;
+                color:#1F0048;
+                font-weight:bold;
+            };
+            p{
+                font-size:0.27rem;
+            }
+        }
+        .iceDiv1{
+            top:2.05rem;
+            left:2.52rem;
+        }
+        .iceDiv2{
+            top:4.5rem;
+            left:2.52rem;
+        }
+        .iceDiv3{
+            top:6.9rem;
+            left:2.52rem;
+        }
+        .iceImg{
+            height:2.25rem;
+        }
+        .ice2Div{
+            position: absolute;
+            top:9.5rem;
+            img{
+                width:3rem;
+                margin:0.35rem;
+            }
+        }
+
+    }
+    .iceThree{
+        position: relative;
+        text-align: center;
+        top:0.3rem;
+        .ice2Div{
+            img{
+                width:3rem;
+                margin:0.35rem;
+            }
+        }
+        // 文字排版
+        .ice9{
+            position: absolute;
+            top:0.35rem;
+            font-size: 0.46rem;
+            width:7.5rem;
+            font-weight: bold;
+        }
+        .ice10{
+            position: absolute;
+            top:2.3rem;
+            left:0.85rem;
+            font-size: 0.28rem;
+            font-weight: bold;
+            color:#393939;
+        }
+        .ice12{
+            position: absolute;
+            top:2.2rem;
+            left:4.7rem;
+            font-size: 0.4rem;
+            color:white;
+            font-weight: bold;
+        }
+        .ice13Div{
+            position: absolute;
+            left:0.98rem;
+            font-size: 0.24rem;
+            text-align: left;     
+            span{
+                float: left;
+            }
+            b{
+                float: left;
+                width:40%;             
+                margin-left:1.3rem;
+                line-height: 150%;              
+            }
+        }
+        .ice13Div1{
+            top:3.7rem;
+            b{
+                margin-top:-0.2rem;
+            }
+        }
+        .ice13Div2{
+            top:5.3rem;
+            b{
+                margin-left:3rem; 
+                margin-top:-0.37rem;
+            }
+        }
+        .ice13Div3{
+            top:6.9rem;
+            b{
+                margin-top:-0.2rem;
+            }
+        }
+        .ice13Div4{
+            top:8.5rem;
+            b{
+                margin-left:3rem; 
+                margin-top:-0.37rem;
+            }
+        }
+        .ice13Div5{
+            top:10rem;
+            b{
+                margin-left:0.9rem;
+                margin-top:-0.2rem; 
+            }
+        }
+    }
+    
+}

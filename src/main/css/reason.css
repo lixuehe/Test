@@ -1,0 +1,65 @@
+.reason {
+  color: black;
+}
+
+.reason .reason1 {
+  width: 7.5rem;
+  position: absolute;
+  text-align: center;
+  top: 9.62rem;
+  font-size: 0.4rem;
+}
+
+.reason .reason3 {
+  position: absolute;
+  text-align: center;
+  width: 7.5rem;
+  top: 10.79rem;
+  font-size: 0.2rem;
+  color: gray;
+}
+
+.reason .reason4 h3 {
+  position: absolute;
+  top: 11.75rem;
+  left: 2.1rem;
+  font-size: 0.34rem;
+  color: #1F0048;
+}
+
+.reason .reason4 .reasonDiv {
+  font-size: 0.27rem;
+  position: absolute;
+  top: 13rem;
+  left: 1.15rem;
+}
+
+.reason .reason5 h3 {
+  position: absolute;
+  top: 14.5rem;
+  left: 2.1rem;
+  font-size: 0.34rem;
+  color: #1F0048;
+}
+
+.reason .reason5 .reasonDiv {
+  font-size: 0.27rem;
+  position: absolute;
+  top: 15.75rem;
+  left: 1.15rem;
+}
+
+.reason .reason6 h3 {
+  position: absolute;
+  top: 17.25rem;
+  left: 2.1rem;
+  font-size: 0.34rem;
+  color: #1F0048;
+}
+
+.reason .reason6 .reasonDiv {
+  font-size: 0.27rem;
+  position: absolute;
+  top: 18.5rem;
+  left: 1.15rem;
+}

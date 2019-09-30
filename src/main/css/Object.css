@@ -1,0 +1,81 @@
+.obj {
+  position: relative;
+}
+
+.obj .objIMg1 {
+  height: 1.74rem;
+}
+
+.obj .obj2Div {
+  position: absolute;
+}
+
+.obj .obj2Div img {
+  width: 3rem;
+  margin: 0.35rem;
+}
+
+.obj .objImg2 {
+  height: 2.47rem;
+}
+
+.obj .obj2Div {
+  position: absolute;
+  top: 6.5rem;
+}
+
+.obj p {
+  position: absolute;
+  font-size: 0.44rem;
+  font-weight: bold;
+}
+
+.obj .objP1 {
+  top: 0.95rem;
+  left: 1.8rem;
+}
+
+.obj .objP2 {
+  top: 1.65rem;
+  left: 3rem;
+}
+
+.obj .obj3 {
+  font-size: 0.25rem;
+  position: absolute;
+}
+
+.obj .obj31 {
+  top: 3.7rem;
+  left: 1.1rem;
+}
+
+.obj .obj32 {
+  top: 3.7rem;
+  left: 3.5rem;
+}
+
+.obj .obj33 {
+  top: 3.7rem;
+  left: 5.9rem;
+}
+
+.obj .obj34 {
+  top: 5.2rem;
+  left: 0.96rem;
+}
+
+.obj .obj35 {
+  top: 5.2rem;
+  left: 3.1rem;
+}
+
+.obj .obj36 {
+  top: 5.2rem;
+  left: 5.4rem;
+}
+
+.obj .obj37 {
+  top: 5.6rem;
+  left: 0.76rem;
+}

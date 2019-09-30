@@ -1,0 +1,35 @@
+.footer{
+    position: relative;
+    font-size:  0.25rem; 
+    p{
+        font-size:0.38rem;
+        color:#20004C;
+        position: absolute;
+        top:0.8rem;
+        left:0.5rem;
+    }
+    .footerSpan{
+        position: absolute;
+        top:1.78rem;
+        width:7rem;
+    }
+    span{
+        font-size: 0.25rem;
+        margin-left:0.45rem;
+        margin-right: 0.1rem;
+        line-height:280%;
+    }
+    .p2>span{
+        margin-right: 0.3rem;
+    }
+    .comp3>span:last-child{
+        margin-left:0.3rem;
+    }
+    .comp3>span:nth-child(4){
+        margin-left:0.35rem;
+    }
+
+
+
+
+}

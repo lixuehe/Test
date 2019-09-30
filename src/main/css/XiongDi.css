@@ -1,0 +1,139 @@
+.thing {
+  position: relative;
+  text-align: center;
+  background-color: #F4F9FF;
+}
+
+.thing .thingImg1 {
+  height: 1.2rem;
+}
+
+.thing .thingImg {
+  width: 6.72rem;
+}
+
+.thing .thing2Div {
+  position: absolute;
+  top: 19.5rem;
+}
+
+.thing .thing2Div img {
+  width: 3rem;
+  margin: 0.35rem;
+}
+
+.thing .thingImg2 {
+  height: 2.38rem;
+}
+
+.thing .thingImg {
+  margin-bottom: 0.26rem;
+}
+
+.thing p {
+  position: absolute;
+  font-size: 0.44rem;
+  letter-spacing: 0.05rem;
+}
+
+.thing .thing1 {
+  top: 1rem;
+  left: 1.9rem;
+}
+
+.thing .thing2 {
+  top: 1.65rem;
+  left: 2.55rem;
+}
+
+.thing .p1 {
+  position: absolute;
+  font-size: 0.27rem;
+  left: 0.5rem;
+  letter-spacing: 0.03rem;
+  color: white;
+}
+
+.thing .thingP1 {
+  top: 3.7rem;
+}
+
+.thing .thingP2 {
+  top: 6.68rem;
+}
+
+.thing .thingP3 {
+  top: 11.11rem;
+}
+
+.thing .thingP4 {
+  top: 16.53rem;
+}
+
+.thing .p2 {
+  position: absolute;
+  font-size: 0.25rem;
+  width: 5.7rem;
+  text-align: justify;
+  left: 0.7rem;
+  line-height: 178%;
+  letter-spacing: 0rem;
+}
+
+.thing .pp1 {
+  top: 4.6rem;
+}
+
+.thing .pp2 {
+  position: absolute;
+  text-align: justify;
+  top: 7rem;
+}
+
+.thing .p21 {
+  top: 0.75rem;
+}
+
+.thing .p22 {
+  top: 1.6rem;
+}
+
+.thing .p23 {
+  top: 2.05rem;
+}
+
+.thing .p24 {
+  top: 2.9rem;
+}
+
+.thing .pp3 {
+  position: absolute;
+  text-align: justify;
+  top: 12.3rem;
+}
+
+.thing .pp3P2 {
+  top: 0.9rem;
+}
+
+.thing .pp3P3 {
+  top: 1.77rem;
+}
+
+.thing .pp3P4 {
+  top: 2.65rem;
+}
+
+.thing .pp4 {
+  position: absolute;
+  text-align: justify;
+  top: 17.35rem;
+}
+
+.thing .p44P2 {
+  top: 0.44rem;
+}
+
+.thing .p44P3 {
+  top: 0.85rem;
+}
